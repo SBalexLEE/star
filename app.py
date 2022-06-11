@@ -14,4 +14,4 @@ def elements():
     return render_template('elements.html')
 
 if __name__ == "__main__":
-    app.run()                                                                                                                                                                
+    app.run(host="52.90.92.150", port="5000", debug=True)
