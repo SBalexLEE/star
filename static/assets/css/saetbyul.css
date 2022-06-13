@@ -181,7 +181,7 @@ margin:0 auto;
 	margin-bottom: 35px;
 	position: relative;
 	/* overflow-x:hidden; */
-		
+
 }
 .skill > p {
 	font-size: 18px;
@@ -209,7 +209,7 @@ margin:0 auto;
 /* SKILL 1 */
 .skill1{
 	width: 95%;
-		
+
 }
 .skill-bar span{
 	position: absolute;
@@ -222,7 +222,7 @@ margin:0 auto;
 }
 .skill-bar {
 	position: relative;
-		
+
 }
 
 .skill1 .skill-count1 {
